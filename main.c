@@ -7,6 +7,7 @@ void main(void)
 >>>>>>> master
 {
   printf("Hi, world\n");
+  printf("Hi, world\n");
   printf("Hello, world\n");
   printf("Hello, world\n");
   printf("Hello, world\n");
